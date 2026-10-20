@@ -11,6 +11,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 ## 📑 Table of Contents
 
 - [📚 What's Included?](#-whats-included)
+- [📓 Interactive Jupyter Notebooks](#-interactive-jupyter-notebooks)
 - [🧩 Coding Interview Solutions Table](#-coding-interview-solutions-table)
   - [🔤 Strings & Palindromes](#-strings--palindromes)
   - [🔢 Arrays, Lists & Hashing](#-arrays-lists--hashing)
@@ -25,7 +26,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 
 ## 📚 What's Included?
 
-This repository contains structured study guides, reference cheat sheets, and 20 fully documented Python solutions:
+This repository contains structured study guides, reference cheat sheets, interactive notebooks, and 20 fully documented Python solutions:
 
 1. **[Python Basics Notes](Python_Basics_Notes_with_Borders.pdf)**
    - A step-by-step guide covering the fundamental concepts of Python (variables, loops, data types, functions, exception handling). Perfect for beginners or as a quick refresher.
@@ -37,6 +38,23 @@ This repository contains structured study guides, reference cheat sheets, and 20
    - Problem statements and thought processes for 20 classic algorithmic challenges.
 5. **[Complete Python Solutions (`solutions/`)](solutions/)**
    - Clean, idiomatic, well-commented Python implementations with time/space complexities and built-in test runs.
+6. **[Interactive Jupyter Notebooks (`notebooks/`)](notebooks/)**
+   - Hands-on runnable `.ipynb` notebooks for core Python syntax and algorithmic problem patterns with 1-click Google Colab support.
+
+---
+
+## 📓 Interactive Jupyter Notebooks
+
+Prefer interactive learning? You can run and edit every topic directly in VS Code or in your browser using Google Colab:
+
+| Notebook | Focus Areas | Run in Cloud |
+|---|---|:---:|
+| **[01: Python Fundamentals](notebooks/01_python_fundamentals.ipynb)** | Data types, comprehensions, `*args`/`**kwargs`, lambdas, exceptions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/01_python_fundamentals.ipynb) |
+| **[02: Strings & Palindromes](notebooks/02_strings_and_palindromes.ipynb)** | Two Pointers, Palindromes, Anagrams, Frequency Counting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/02_strings_and_palindromes.ipynb) |
+| **[03: Arrays, Lists & Hashing](notebooks/03_arrays_lists_and_hashing.ipynb)** | Two Sum, Duplicates, Merging Sorted Lists, Flattening, Sorting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/03_arrays_lists_and_hashing.ipynb) |
+| **[04: Searching, Math & Logic](notebooks/04_searching_math_and_logic.ipynb)** | Binary Search, Prime Check ($\mathcal{O}(\sqrt{n})$), Fibonacci, FizzBuzz | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/04_searching_math_and_logic.ipynb) |
+| **[05: Linked Lists & Pointers](notebooks/05_linked_lists_and_pointers.ipynb)** | Floyd's Cycle Detection, Middle Node, Reversing Linked List | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/05_linked_lists_and_pointers.ipynb) |
+
 
 ---
 
@@ -115,7 +133,7 @@ python3 solutions/19_detect_cycle.py
 - [ ] Add an automated `pytest` test suite with edge-case validation.
 - [ ] Set up GitHub Actions CI workflow for automated testing on push and PR.
 - [ ] Add an `advanced/` guide covering Decorators, Generators, Context Managers, and `asyncio`.
-- [ ] Create interactive Jupyter Notebooks (`.ipynb`) for hands-on exercises.
+- [x] Create interactive Jupyter Notebooks (`.ipynb`) for hands-on exercises.
 - [ ] Implement foundational data structures from scratch (BST, Doubly Linked List, Heap, Trie).
 
 ---
