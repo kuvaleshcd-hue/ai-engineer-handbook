@@ -51,11 +51,11 @@ Prefer interactive learning? You can run and edit every topic directly in VS Cod
 
 | Notebook | Focus Areas | Run in Cloud |
 |---|---|:---:|
-| **[01: Python Fundamentals](notebooks/01_python_fundamentals.ipynb)** | Data types, comprehensions, `*args`/`**kwargs`, lambdas, exceptions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/01_python_fundamentals.ipynb) |
-| **[02: Strings & Palindromes](notebooks/02_strings_and_palindromes.ipynb)** | Two Pointers, Palindromes, Anagrams, Frequency Counting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/02_strings_and_palindromes.ipynb) |
-| **[03: Arrays, Lists & Hashing](notebooks/03_arrays_lists_and_hashing.ipynb)** | Two Sum, Duplicates, Merging Sorted Lists, Flattening, Sorting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/03_arrays_lists_and_hashing.ipynb) |
-| **[04: Searching, Math & Logic](notebooks/04_searching_math_and_logic.ipynb)** | Binary Search, Prime Check ($\mathcal{O}(\sqrt{n})$), Fibonacci, FizzBuzz | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/04_searching_math_and_logic.ipynb) |
-| **[05: Linked Lists & Pointers](notebooks/05_linked_lists_and_pointers.ipynb)** | Floyd's Cycle Detection, Middle Node, Reversing Linked List | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/python-notes-/blob/main/notebooks/05_linked_lists_and_pointers.ipynb) |
+| **[01: Python Fundamentals](notebooks/01_python_fundamentals.ipynb)** | Data types, comprehensions, `*args`/`**kwargs`, lambdas, exceptions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/ai-engineer-handbook/blob/main/notebooks/01_python_fundamentals.ipynb) |
+| **[02: Strings & Palindromes](notebooks/02_strings_and_palindromes.ipynb)** | Two Pointers, Palindromes, Anagrams, Frequency Counting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/ai-engineer-handbook/blob/main/notebooks/02_strings_and_palindromes.ipynb) |
+| **[03: Arrays, Lists & Hashing](notebooks/03_arrays_lists_and_hashing.ipynb)** | Two Sum, Duplicates, Merging Sorted Lists, Flattening, Sorting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/ai-engineer-handbook/blob/main/notebooks/03_arrays_lists_and_hashing.ipynb) |
+| **[04: Searching, Math & Logic](notebooks/04_searching_math_and_logic.ipynb)** | Binary Search, Prime Check ($\mathcal{O}(\sqrt{n})$), Fibonacci, FizzBuzz | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/ai-engineer-handbook/blob/main/notebooks/04_searching_math_and_logic.ipynb) |
+| **[05: Linked Lists & Pointers](notebooks/05_linked_lists_and_pointers.ipynb)** | Floyd's Cycle Detection, Middle Node, Reversing Linked List | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuvaleshcd-hue/ai-engineer-handbook/blob/main/notebooks/05_linked_lists_and_pointers.ipynb) |
 
 
 ---
@@ -118,8 +118,8 @@ Each solution file is standalone and can be executed directly using Python 3:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kuvaleshcd-hue/python-notes-.git
-cd python-notes-
+git clone https://github.com/kuvaleshcd-hue/ai-engineer-handbook.git
+cd ai-engineer-handbook
 
 # Run any solution file directly
 python3 solutions/01_reverse_string.py
