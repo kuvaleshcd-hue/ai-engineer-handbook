@@ -40,6 +40,8 @@ This repository contains structured study guides, reference cheat sheets, intera
    - Clean, idiomatic, well-commented Python implementations with time/space complexities and built-in test runs.
 6. **[Interactive Jupyter Notebooks (`notebooks/`)](notebooks/)**
    - Hands-on runnable `.ipynb` notebooks for core Python syntax and algorithmic problem patterns with 1-click Google Colab support.
+7. **[Git Fundamentals Guide](Git_Fundamentals.pdf)** ([Markdown Reference](git_fundamentals.md))
+   - Quick-reference guide covering 18 essential Git commands and workflows (`init`, `clone`, `status`, `add`, `commit`, `push`, `pull`, `fetch`, `checkout`/`switch`, `merge`, `rebase`, `log`, `diff`, `stash`, `reset`, `revert`, `cherry-pick`, and `tag`).
 
 ---
 
