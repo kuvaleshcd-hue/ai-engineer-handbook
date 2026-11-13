@@ -142,7 +142,7 @@ python3 solutions/19_detect_cycle.py
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!.....
 1. Fork this repository.
 2. Create your feature branch (`git checkout -b feature/new-problem-or-topic`).
 3. Commit your changes (`git commit -m 'Add solution or guide'`).
