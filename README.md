@@ -20,7 +20,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 - [🚀 How to Run the Solutions](#-how-to-run-the-solutions)
 - [🗺️ Roadmap](#️-roadmap)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- [📄 License](#-license)....
 
 ---
 
