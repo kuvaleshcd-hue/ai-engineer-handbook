@@ -101,7 +101,7 @@ All 20 interview problems are implemented in the [`solutions/`](solutions/) dire
 
 ### 🔍 Searching, Math & Logic
 
-| # | Problem | Solution File | Pattern / Approach | Time | Space |
+| # | Problem | Solution File | Pattern / Approach | Time | Space |.   
 |:---:|---|---|---|:---:|:---:|
 | 03 | **Factorial (Recursive & Iterative)** | [`03_factorial.py`](solutions/03_factorial.py) | Recursion vs Loop | `O(n)` | `O(n)` rec / `O(1)` iter |
 | 04 | **Fibonacci Sequence** | [`04_fibonacci.py`](solutions/04_fibonacci.py) | Iterative Generator | `O(n)` | `O(n)` |
