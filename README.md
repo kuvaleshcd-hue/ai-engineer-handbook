@@ -155,5 +155,5 @@ Contributions, issues, and feature requests are welcome!
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use these notes and solutions for your personal learning and interview preparation! not more   
 
-this is the roadmap for the ai engineering    
+this is the roadmap for the ai engineering        
       
