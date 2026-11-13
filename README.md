@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Solutions](https://img.shields.io/badge/Solutions-20%2F20%20Complete-brightgreen.svg)](#-coding-interview-solutions-table)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)...
 
 Welcome to the **Python Learning & Interview Prep** repository! A curated, practical collection of notes, cheatsheets, and coding interview solutions designed to help you master Python — from foundational syntax to cracking algorithmic technical interviews.
 
