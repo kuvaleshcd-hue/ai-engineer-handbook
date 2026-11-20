@@ -10,7 +10,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 
 ## 📑 Table of Contents
 
-- [📚 What's Included?](#-whats-included)
+- [📚 What's Included?](#-whats-included).   
 - [📓 Interactive Jupyter Notebooks](#-interactive-jupyter-notebooks)
 - [🧩 Coding Interview Solutions Table](#-coding-interview-solutions-table)
   - [🔤 Strings & Palindromes](#-strings--palindromes)
