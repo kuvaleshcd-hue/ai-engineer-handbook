@@ -66,7 +66,7 @@ All 20 interview problems are implemented in the [`solutions/`](solutions/) dire
 
 ### 🔤 Strings & Palindromes
 
-| # | Problem | Solution File | Pattern / Approach | Time | Space |
+| # | Problem | Solution File | Pattern / Approach | Time | Space |. 
 |:---:|---|---|---|:---:|:---:|
 | 01 | **Reverse String** | [`01_reverse_string.py`](solutions/01_reverse_string.py) | Two Pointers (In-place swap) | `O(n)` | `O(n)` |
 | 02 | **Valid Palindrome** | [`02_palindrome.py`](solutions/02_palindrome.py) | Two Pointers (Alpha-numeric filter) | `O(n)` | `O(1)` |
