@@ -15,7 +15,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 - [🧩 Coding Interview Solutions Table](#-coding-interview-solutions-table)
   - [🔤 Strings & Palindromes](#-strings--palindromes)
   - [🔢 Arrays, Lists & Hashing](#-arrays-lists--hashing)
-  - [🔗 Linked Lists](#-linked-lists)
+  - [🔗 Linked Lists](#-linked-lists).  
   - [🔍 Searching, Math & Logic](#-searching-math--logic)
 - [🚀 How to Run the Solutions](#-how-to-run-the-solutions)
 - [🗺️ Roadmap](#️-roadmap)
