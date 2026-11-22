@@ -1,4 +1,4 @@
-# Python Learning & Interview Prep 🐍
+# Python Learning & Interview Prep 🐍 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Solutions](https://img.shields.io/badge/Solutions-20%2F20%20Complete-brightgreen.svg)](#-coding-interview-solutions-table)
