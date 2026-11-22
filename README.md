@@ -30,7 +30,7 @@ This repository contains structured study guides, reference cheat sheets, intera
 
 1. **[Python Basics Notes](Python_Basics_Notes_with_Borders.pdf)**.  
    - A step-by-step guide covering the fundamental concepts of Python (variables, loops, data types, functions, exception handling). Perfect for beginners or as a quick refresher.
-2. **[Python Cheatsheet](Python_Cheatsheet.pdf)**
+2. **[Python Cheatsheet](Python_Cheatsheet.pdf)**. 
    - Rapid-fire reference covering basic syntax, control flow, built-in functions, and standard library modules (`collections`, `itertools`, `datetime`, etc.).
 3. **[Interview Questions Guide](interview_questions.pdf)**
    - Core Python theory and behavioral/conceptual questions frequently asked during technical screens.
