@@ -28,7 +28,7 @@ Welcome to the **Python Learning & Interview Prep** repository! A curated, pract
 
 This repository contains structured study guides, reference cheat sheets, interactive notebooks, and 20 fully documented Python solutions:
 
-1. **[Python Basics Notes](Python_Basics_Notes_with_Borders.pdf)**
+1. **[Python Basics Notes](Python_Basics_Notes_with_Borders.pdf)**.  
    - A step-by-step guide covering the fundamental concepts of Python (variables, loops, data types, functions, exception handling). Perfect for beginners or as a quick refresher.
 2. **[Python Cheatsheet](Python_Cheatsheet.pdf)**
    - Rapid-fire reference covering basic syntax, control flow, built-in functions, and standard library modules (`collections`, `itertools`, `datetime`, etc.).
